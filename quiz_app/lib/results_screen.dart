@@ -54,6 +54,7 @@ class ResultsScreen extends StatelessWidget {
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
                 ),
+                textAlign: TextAlign.center,
               ),
               const SizedBox(
                 height: 30,
